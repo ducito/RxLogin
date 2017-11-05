@@ -1,2 +1,10 @@
 # RxLogin
-Simple login screen with RxSwift
+
+
+Setup: 
+
+`pod update`
+
+Screen shots:
+
+![](images/screen.png)
